@@ -8,6 +8,8 @@ Express: Framework minimalista para gerenciar rotas e requisições.
 
 NPM: Gerenciador de pacotes para instalação de dependências.
 
+<img width="1907" height="1024" alt="OlaMundo2" src="https://github.com/user-attachments/assets/0c9d30b0-320f-4ba0-a5a5-7c5c2c7a1824" />
+
 📖 O que foi praticado:
 Configuração do ambiente de desenvolvimento.
 
